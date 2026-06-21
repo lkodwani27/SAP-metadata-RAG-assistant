@@ -13,9 +13,9 @@ After 12 years across SAP ECC and S/4HANA I've seen the same pain everywhere:
 This project uses **Retrieval-Augmented Generation (RAG)** to make enterprise metadata searchable in plain English,
 
 # Sample Queries
-"Which dataset contains customer revenue?"
-"Find tables related to employee attendance which datasets are missing ownership info?"
-"Explain the customer orders table."
+Which dataset contains customer revenue?
+Find tables related to employee attendance which datasets are missing ownership info?
+Explain the customer orders table.
 
 # How It works
 User Query -> Embedding -> FAISS Search -> Retrieved Metadata -> FLAN-T5 ->  Grounded Answer
