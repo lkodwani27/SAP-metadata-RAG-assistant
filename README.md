@@ -8,7 +8,7 @@ After 12 years across SAP ECC and S/4HANA I've seen the same pain everywhere:
 - Business users can't find the right table
 - Analysts waste hours in SE16N/SE11
 - Data catalogs are static and keyword-based
-- Tribal kno knowledge doesn't scale
+- Tribal knowledge doesn't scale
 
 This project uses **Retrieval-Augmented Generation (RAG)** to make enterprise metadata searchable in plain English,
 
